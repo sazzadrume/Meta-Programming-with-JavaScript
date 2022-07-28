@@ -1,0 +1,13 @@
+charAt() 
+
+concat() 
+
+indexOf() 
+
+lastIndexOf() 
+
+split() 
+
+toUpperCase() 
+
+toLowerCase()  
